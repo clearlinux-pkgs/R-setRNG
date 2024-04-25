@@ -7,7 +7,7 @@
 #
 Name     : R-setRNG
 Version  : 2024.2.1
-Release  : 48
+Release  : 49
 URL      : https://cran.r-project.org/src/contrib/setRNG_2024.2-1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/setRNG_2024.2-1.tar.gz
 Summary  : Set (Normal) Random Number Generator and Seed
